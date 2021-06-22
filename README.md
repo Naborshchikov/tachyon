@@ -25,7 +25,7 @@ To implement the project used: <br>
 
 <p> <h4> 2. class Algorithm ()</h4>   - This is the heart of the program developed by the author. </p>
 
-<p> <h4> 3. class Particles () </h4>   - This class forms the date set for protons, neutrons, calculates the characteristics of the tachyon. </p>
+<p> <h4> 3. class Particles () </h4>   - This class forms the Data set for protons, neutrons, calculates the characteristics of the tachyon. </p>
 <p> Table 2: Reserved for quarks.  Table 3: Values of electric charge, mass, volume by shells for the proton2. Table 4: Values of electric charge, mass, volume by shells for the proton. Table 5: Values of electric charge, mass, volume by shells for the neutron2. Table 6: Values of electric charge, mass, volume by shells for the neutron. Table 7: Mass, electric charge and volume of the tachyon. </p>
 <p> <h4> 4. Analytics section </h4>   - The analytical section visualizes the conclusions presented in the description. </p>
 <p> The histograms from the first to the third show the distribution of volume, electric charge, and mass over the shells of protons and neutrons. </p>
