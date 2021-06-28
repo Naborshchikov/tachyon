@@ -13,6 +13,7 @@ Description: </h2>
 <p> The resulting structures for protons will reduce the temperature required for thermonuclear fusion. </p>
 <p> The refined structures for protons and neutrons allow us to conclude that: a proton and a neutron of the same type move along the time axis and have a clockwise spin; a proton and a neutron of the second type move in the opposite direction along the time axis and have counterclockwise spin. </p>
 <p> The project has produced two types of neutrons with different characteristics. This explains why the "bottle" and "beam" methods for estimating the neutron lifetime give scientists different results. This can also be viewed as proof of the obtained results. </p>
+<p> Graphs from 4 to 15 explain why protons, neutrons are in the form of a dipole. A large group of scientists from different countries (https://doi.org/10.1063/1.4967465) experimentally confirmed the fact that the proton is a dipole. </p>
 <p>Protons, neutrons consist of three segments located in the future, present, and past time. This suggests the possibility of time travel. </p>
 <p> The presence of a tachyon suggests the presence of an antitachyon, which in turn will allow beginning the study of rejuvenation. </p>
 <p> <h3> Project implemented in python ver. 3.7.6, with using anaconda 2020 02. </h3> <br>
@@ -48,4 +49,4 @@ To implement the project used: <br>
 <p> Information about me is located at this address: <br>
 <h4>  http://www.linkedin.com/in/ivan-naborshchikov/ </h4> </p>
  </body>
-</html>
+</html> 
