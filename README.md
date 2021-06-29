@@ -17,6 +17,7 @@ Description: </h2>
 <p>Protons, neutrons consist of three segments located in the future, present, and past time. This suggests the possibility of time travel. </p>
 <p> My calculations show that protons, neutrons are in multiple dimensions simultaneously. As proof of this, one can take the fact that scientists have confirmed that the proton and neutron have a passage to another dimension – https://link.springer.com/article/10.1007/s11182-019-01709-9 </p>
 <p> The presence of a tachyon suggests the presence of an antitachyon, which in turn will allow beginning the study of rejuvenation. </p>
+<p> The presentation of a venture project for obtaining an individual source of electrical energy, based on the results of the presented computer program, is presented. </p>
 <p> <h3> Project implemented in python ver. 3.7.6, with using anaconda 2020 02. </h3> <br>
 To implement the project used: <br>
 1. The libraries: pandas; numpy; matplotlib; scipy; prettytable; collections; csv; warnings. <br>
