@@ -15,6 +15,7 @@ Description: </h2>
 <p> The project has produced two types of neutrons with different characteristics. This explains why the "bottle" and "beam" methods for estimating the neutron lifetime give scientists different results. This can also be viewed as proof of the obtained results. </p>
 <p> Graphs from 4 to 15 explain why protons, neutrons are in the form of a dipole. A large group of scientists from different countries (https://doi.org/10.1063/1.4967465) experimentally confirmed the fact that the proton is a dipole. </p>
 <p>Protons, neutrons consist of three segments located in the future, present, and past time. This suggests the possibility of time travel. </p>
+<p> My calculations show that protons, neutrons are in multiple dimensions simultaneously. As proof of this, one can take the fact that scientists have confirmed that the proton and neutron have a passage to another dimension – https://link.springer.com/article/10.1007/s11182-019-01709-9 </p>
 <p> The presence of a tachyon suggests the presence of an antitachyon, which in turn will allow beginning the study of rejuvenation. </p>
 <p> <h3> Project implemented in python ver. 3.7.6, with using anaconda 2020 02. </h3> <br>
 To implement the project used: <br>
