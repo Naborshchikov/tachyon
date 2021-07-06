@@ -16,6 +16,7 @@ Description: </h2>
 <p> Graphs from 4 to 15 explain why protons, neutrons are in the form of a dipole. A large group of scientists from different countries (https://doi.org/10.1063/1.4967465) experimentally confirmed the fact that the proton is a dipole. </p>
 <p>Protons, neutrons consist of three segments located in the future, present, and past time. This suggests the possibility of time travel. </p>
 <p> My calculations show that protons, neutrons are in multiple dimensions simultaneously. As proof of this, one can take the fact that scientists have confirmed that the proton and neutron have a passage to another dimension – https://link.springer.com/article/10.1007/s11182-019-01709-9 </p>
+<p> The program version 5.3 allows the user to start developing the energy balance of reactions taking into account the segmentation and tachyon particles.  </p>
 <p> The presence of a tachyon suggests the presence of an antitachyon, which in turn will allow beginning the study of rejuvenation. </p>
 <p> The presentation of a venture project for obtaining an individual source of electrical energy, based on the results of the presented computer program, is presented. </p>
 <p> <h3> Project implemented in python ver. 3.7.6, with using anaconda 2020 02. </h3> <br>
@@ -29,6 +30,7 @@ To implement the project used: <br>
 <p> <h4> 2. class Algorithm ()</h4>   - This is the heart of the program developed by the author. </p>
 
 <p> <h4> 3. class Particles () </h4>   - This class forms the Data set for protons, neutrons, calculates the characteristics of the tachyon. </p>
+<p> <h4> 3. class Tachion() </h4>   - This class contains data sufficient to develop the energy balance of reactions. </p>
 <p> Table 2: Reserved for quarks.  Table 3: Values of electric charge, mass, volume by shells for the proton2. Table 4: Values of electric charge, mass, volume by shells for the proton. Table 5: Values of electric charge, mass, volume by shells for the neutron2. Table 6: Values of electric charge, mass, volume by shells for the neutron. Table 7: Mass, electric charge and volume of the tachyon. </p>
 <p> <h4> 4. Analytics section </h4>   - The analytical section visualizes the conclusions presented in the description. </p>
 <p> The histograms from the first to the third show the distribution of volume, electric charge, and mass over the shells of protons and neutrons. </p>
