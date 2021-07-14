@@ -9,7 +9,7 @@ Project name: <br>
 <body>
 <h2> <p> Features of matter to optimize thermonuclear fusion and understand the possibilities of time travel and rejuvenation. Part one. </p>
 Description: </h2>
-<p> The part of the algorithm at Python3 for demonstrations of the space-time structure of matter by the example of protons, neutrons, and computed tachyons. </p>
+<p> This version is outdated. An updated version 5.4 is posted on the main. The part of the algorithm at Python3 for demonstrations of the space-time structure of matter by the example of protons, neutrons, and computed tachyons. </p>
 <p> The resulting structures for protons will reduce the temperature required for thermonuclear fusion. </p>
 <p> The refined structures for protons and neutrons allow us to conclude that: a proton and a neutron of the same type move along the time axis and have a clockwise spin; a proton and a neutron of the second type move in the opposite direction along the time axis and have counterclockwise spin. </p>
 <p> The project has produced two types of neutrons with different characteristics. This explains why the "bottle" and "beam" methods for estimating the neutron lifetime give scientists different results. This can also be viewed as proof of the obtained results. </p>
